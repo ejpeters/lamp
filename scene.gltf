@@ -609,16 +609,16 @@
   ],
   "images": [
     {
-      "uri": "textures/WOOD_baseColor.jpeg"
+      "uri": "WOOD_baseColor.jpeg"
     },
     {
-      "uri": "textures/STEEL_GRAY_baseColor.jpeg"
+      "uri": "STEEL_GRAY_baseColor.jpeg"
     },
     {
-      "uri": "textures/LAMP_SHADE_GRAY_baseColor.jpeg"
+      "uri": "LAMP_SHADE_GRAY_baseColor.jpeg"
     },
     {
-      "uri": "textures/FLOOR_baseColor.png"
+      "uri": "FLOOR_baseColor.png"
     }
   ],
   "materials": [
